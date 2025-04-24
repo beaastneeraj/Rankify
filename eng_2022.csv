@@ -1,0 +1,201 @@
+,name,city,state,score,rank,TLR_SS Score (Max 20.00),TLR_FSR Score (Max 30.00),TLR_FQE Score (Max 20.00),TLR_FRU Score (Max 30.00),RP_PU Score (Max 35.00),RP_QP Score (Max 40.00),RP_IPR Score (Max 15.00),RP_FPPP Score (Max 10.00),GO_GPH Score (Max 40.00),GO_GUE Score (Max 15.00),GO_MS Score (Max 25.00),GO_GPHD Score (Max 20.00),OI_RD Score (Max 30.00),OI_WD Score (Max 30.00),OI_ESCS Score (Max 20.00),OI_PCS Score (Max 20.00),PR Score (Max 100.00)
+0,Indian Institute of Technology Madras,Chennai,Tamil Nadu,90.04,1,18.5,30.0,17.5,28.61,35.0,37.68,15.0,9.98,27.78,14.88,20.56,17.2,21.6,13.34,7.91,20.0,100.0
+1,"Indian Institute of Technology, Delhi",New Delhi,Delhi,88.12,2,18.5,26.54,17.31,24.59,34.5,39.78,15.0,6.73,32.14,13.6,21.57,16.11,23.7,16.91,7.95,20.0,96.92
+2,"Indian Institute of Technology, Bomby",Mumbai,Maharashtra,83.96,3,18.5,30.0,18.24,20.79,32.31,35.95,15.0,7.56,30.35,14.18,19.74,14.92,18.74,14.06,4.57,20.0,88.7
+3,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,82.56,4,18.5,26.64,18.41,24.7,29.18,31.34,12.0,7.46,36.47,15.0,22.0,16.23,21.64,9.96,7.87,20.0,83.01
+4,"Indian Institute of Technology, Kharagpur",Kharagpur,West Bengal,78.89,5,19.31,25.19,16.89,17.82,32.43,39.41,10.0,3.36,25.93,14.1,20.88,20.0,21.09,11.89,5.1,15.0,82.63
+5,"Indian Institute of Technology, Roorkee",Roorkee,Uttarakhand,76.7,6,18.23,23.74,15.34,18.67,30.82,35.44,7.0,4.85,37.3,15.0,21.57,16.26,24.44,11.95,6.7,20.0,61.36
+6,Indian Institute of Technology Guwahati,Guwahati,Assam,72.98,7,16.45,26.34,14.75,18.35,29.91,32.51,5.0,5.47,31.6,15.0,22.1,15.94,23.51,11.49,1.9,20.0,57.15
+7,"National Institute of Technology, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,69.17,8,17.5,24.32,16.49,18.08,25.02,26.73,4.0,2.69,35.44,15.0,17.38,11.35,16.69,20.5,7.29,20.0,64.38
+8,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,68.03,9,11.28,30.0,17.95,21.08,23.62,23.65,7.0,5.62,29.48,15.0,20.89,7.03,16.82,14.97,3.06,20.0,59.96
+9,"National Institute of Technology Karnataka, Surathkal ",Surathkal,Karnataka,66.04,10,16.0,23.63,15.01,18.22,23.82,23.56,6.0,3.04,34.51,15.0,16.68,11.51,16.78,16.72,10.39,20.0,53.24
+10,Jadavpur University,Kolkata,West Bengal,65.68,11,15.96,26.43,17.02,11.97,28.43,29.76,3.0,3.23,34.44,15.0,16.58,12.1,6.15,18.04,8.15,20.0,40.97
+11,Vellore Institute of Technology,Vellore,Tamil Nadu,65.53,12,18.6,21.37,14.18,8.39,27.45,36.93,9.0,0.22,26.62,15.0,13.42,14.41,18.14,21.01,0.12,20.0,49.6
+12,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,63.51,13,17.49,17.57,12.31,15.25,22.59,27.26,5.0,2.41,35.57,15.0,20.45,10.7,17.31,9.86,8.89,20.0,55.89
+13,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,63.5,14,14.65,22.29,15.05,16.71,28.31,31.19,3.0,2.87,30.04,13.89,17.41,9.83,18.67,7.95,7.73,20.0,36.23
+14,National Institute of Technology Rourkela,Rourkela,Odisha,62.36,15,18.5,24.68,16.9,13.31,26.08,28.84,3.0,1.53,30.85,15.0,14.19,11.76,15.66,14.96,6.46,20.0,24.43
+15,Indian Institute of Technology Indore,Indore,Madhya Pradesh,61.68,16,10.09,30.0,16.88,19.31,24.68,26.37,2.0,3.7,25.31,15.0,20.53,9.54,17.76,11.56,3.16,20.0,24.43
+16,Anna University,Chennai,Tamil Nadu,61.41,17,17.21,23.28,13.45,10.69,24.56,30.87,7.0,2.16,19.65,14.62,12.42,11.41,0.65,24.7,3.52,20.0,62.83
+17,Institute of Chemical Technology,Mumbai,Maharashtra,61.4,18,10.29,27.44,17.87,21.45,18.24,20.92,13.0,4.82,30.8,15.0,13.34,10.39,7.28,24.59,2.71,20.0,19.95
+18,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,60.92,19,17.0,27.43,14.76,10.08,26.4,22.8,8.0,1.44,32.7,15.0,10.87,2.83,18.46,22.02,1.28,20.0,41.78
+19,"Indian Institute of Technology, Mandi",Mandi,Himachal Pradesh,60.43,20,9.33,27.54,18.54,20.36,18.75,18.3,4.0,3.0,35.96,14.55,20.43,6.61,21.41,19.14,6.91,20.0,22.57
+20,National Institute of Technology Warangal,Warangal,Telangana,60.0,21,16.5,24.99,16.66,15.84,19.67,20.81,3.0,2.22,34.03,15.0,16.72,9.36,15.69,14.97,4.25,20.0,35.77
+21,Indian Institute of Technology Ropar,Rupnagar,Punjab,59.16,22,11.28,30.0,17.86,21.93,15.66,17.3,2.0,3.83,30.1,15.0,18.81,4.85,23.41,14.67,5.89,20.0,30.87
+22,"Indian Institute of Technology, Gandhinagar",Gandhinagar,Gujarat,58.27,23,11.5,27.52,17.66,23.51,16.44,14.82,1.5,6.32,27.92,13.66,15.76,7.29,21.0,14.97,4.5,20.0,35.07
+23,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,58.02,24,18.3,20.97,12.01,9.92,22.24,27.67,9.0,0.3,34.82,15.0,9.86,7.49,19.46,21.48,0.82,20.0,22.89
+24,Amity University,Gautam Budh Nagar,Uttar Pradesh,57.73,25,14.72,30.0,15.97,9.26,26.46,24.41,11.0,0.62,25.36,15.0,10.16,5.15,14.31,22.51,0.51,20.0,12.19
+25,"Jamia Millia Islamia, New Delhi",New Delhi,Delhi,57.51,26,10.5,25.38,13.89,9.77,25.78,26.06,3.0,2.61,36.92,15.0,14.83,6.79,21.79,10.17,8.98,20.0,16.07
+26,Siksha `O` Anusandhan,Bhubaneswar,Odisha,57.48,27,,30.0,14.79,14.04,14.54,18.54,6.0,0.94,35.44,15.0,9.86,,18.32,30.0,1.22,20.0,19.95
+27,Thapar Institute of Engineering and Technology,Patiala,Punjab,57.18,28,16.51,18.09,12.19,12.73,21.68,30.1,4.5,0.69,32.98,15.0,14.9,8.31,14.06,19.7,0.79,20.0,25.33
+28,Birla Institute of Technology & Science - Pilani,Pilani,Rajasthan,56.9,29,17.43,18.59,12.32,12.51,19.06,23.56,3.0,0.66,37.75,15.0,19.68,5.84,21.45,12.69,0.05,20.0,36.91
+29,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,56.7,30,10.3,29.32,17.98,20.82,13.73,14.61,3.0,3.59,36.38,15.0,18.36,4.67,20.13,20.59,5.72,20.0,11.78
+30,"National Institute of Technology, Calicut",Kozhikode,Kerala,56.66,31,16.64,22.56,14.91,13.02,15.82,16.4,3.0,1.09,35.85,15.0,15.57,10.44,13.24,21.19,9.29,20.0,38.88
+31,"Visvesvaraya National Institute of Technology, Nagpur",Nagpur,Maharashtra,56.62,32,14.25,22.44,14.96,14.74,18.46,18.53,9.0,2.87,37.27,15.0,15.1,8.28,13.16,16.47,3.52,20.0,16.07
+32,"Indian Institute of Technology, Patna",Patna,Bihar,56.19,33,10.58,25.87,16.27,18.73,22.06,21.45,2.0,2.57,25.09,12.02,18.81,6.47,16.78,9.47,5.22,20.0,27.92
+33,National Institute of Technology Durgapur,Durgapur,West Bengal,55.76,34,13.04,24.08,16.17,14.32,19.79,19.84,2.0,1.68,35.32,15.0,14.46,7.98,14.26,13.52,9.98,20.0,21.61
+34,Delhi Technological University,New Delhi,Delhi,55.65,35,18.07,28.91,11.74,10.25,14.83,18.54,0.5,0.9,35.64,15.0,17.57,5.15,14.29,19.83,2.04,20.0,42.38
+35,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,55.11,36,11.7,24.55,16.31,17.53,15.99,16.74,1.0,3.47,30.55,14.99,18.86,5.6,23.23,10.86,6.69,20.0,29.29
+36,Aligarh Muslim University,Aligarh,Uttar Pradesh,54.7,37,12.0,30.0,16.02,12.88,23.65,25.4,3.0,1.77,26.77,12.61,11.94,5.68,5.89,11.72,4.76,20.0,16.43
+37,"National Institute of Technology, Silchar",Silchar,Assam,54.63,38,14.37,23.06,15.47,12.58,21.47,21.92,4.0,0.91,30.49,15.0,14.21,7.4,14.27,16.0,7.31,20.0,14.56
+38,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,54.62,39,16.24,30.0,17.37,9.99,11.2,15.55,4.0,1.51,32.98,15.0,10.62,6.22,,30.0,7.23,20.0,24.73
+39,"Indian Institute of Engineering Science and Technology, Shibpur",HOWRAH,West Bengal,54.57,40,12.68,21.02,12.78,13.63,22.88,21.33,1.5,2.31,28.15,14.28,14.28,10.7,11.23,13.75,3.28,20.0,38.23
+40,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,53.36,41,16.17,27.43,15.72,10.7,15.92,20.23,2.0,2.01,33.69,15.0,12.35,6.25,9.67,25.65,0.62,20.0,12.59
+41,Kalinga Institute of Industrial Technology,BHUBANESWAR,Odisha,53.06,42,19.0,23.83,14.91,12.52,13.18,17.06,5.0,0.51,22.45,15.0,11.88,9.18,25.44,29.79,1.73,20.0,18.58
+42,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,52.37,43,7.23,30.0,17.71,20.84,11.68,10.56,2.0,1.1,30.0,13.25,16.98,2.37,19.67,18.14,4.16,20.0,33.15
+43,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,51.93,44,16.39,30.0,17.09,6.6,19.92,19.54,5.0,0.35,21.27,15.0,10.82,5.64,10.37,25.54,0.26,20.0,12.99
+44,Chandigarh University,Mohali,Punjab,51.73,45,18.0,30.0,17.29,10.63,4.6,8.96,11.0,0.28,19.42,15.0,12.3,5.72,24.97,30.0,4.51,20.0,30.61
+45,Malaviya National Institute of Technology,Jaipur,Rajasthan,51.69,46,15.53,21.42,14.35,11.58,19.52,22.47,3.0,1.66,26.9,12.6,14.72,7.98,11.77,16.34,7.03,20.0,10.53
+46,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,51.17,47,16.22,17.43,11.76,13.9,16.03,18.29,1.5,2.16,34.55,15.0,16.89,8.78,13.41,11.47,7.86,20.0,18.23
+47,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,50.5,48,12.5,25.52,14.63,11.43,17.39,16.42,2.5,1.01,32.25,14.56,11.84,4.76,3.45,25.52,3.96,20.0,22.25
+48,Visvesvaraya Technological University,Belgaum,Karnataka,50.2,49,7.26,27.76,14.72,22.32,22.57,16.93,1.0,0.38,27.96,14.47,8.8,0.89,1.93,27.7,2.84,20.0,6.54
+49,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,50.11,50,13.64,19.75,11.31,13.03,19.21,20.68,3.0,0.77,29.02,14.9,15.27,4.16,15.03,16.75,3.55,20.0,14.94
+50,Lovely Professional University,Phagwara,Punjab,49.58,51,18.0,26.6,13.4,7.51,10.74,16.97,9.0,0.14,22.63,15.0,11.46,2.97,24.55,18.68,4.27,20.0,17.52
+51,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Jalandhar,Punjab,49.45,52,14.46,28.37,14.91,10.41,14.01,16.7,0.5,0.49,25.29,15.0,13.53,5.36,14.68,20.99,8.32,20.0,12.59
+52,Birla Institute of Technology,Ranchi,Jharkhand,49.33,53,11.59,27.41,16.33,11.52,16.85,15.75,0.5,1.44,22.58,13.16,15.63,5.23,,18.61,0.86,20.0,26.21
+53,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,48.56,54,15.09,27.21,14.22,8.35,15.64,17.72,3.0,1.0,17.22,15.0,9.62,4.93,17.25,23.97,2.16,20.0,21.93
+54,Manipal Institute of Technology,Manipal,Karnataka,48.33,55,15.5,28.86,14.03,8.97,14.48,16.65,2.0,0.23,17.42,15.0,13.7,3.37,19.19,21.73,1.56,20.0,19.61
+55,"Indian Institute of Technology, Tirupati",YERPEDU,Andhra Pradesh,48.16,56,8.0,30.0,16.76,22.71,5.83,7.33,0.0,1.79,28.56,15.0,16.6,0.08,17.41,11.09,8.29,20.0,27.07
+56,PSG College of Technology,Coimbatore,Tamil Nadu,47.68,57,14.91,28.75,14.22,8.62,9.74,13.02,1.5,0.64,22.8,14.25,11.1,2.66,1.36,24.22,2.51,20.0,52.94
+57,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,47.61,58,14.37,18.23,12.19,11.74,15.61,17.35,4.5,1.18,29.7,14.79,14.42,6.18,12.64,13.95,3.28,20.0,10.53
+58,Banasthali Vidyapith,Banasthali,Rajasthan,47.0,59,12.68,26.96,16.4,9.47,7.23,9.75,0.5,0.77,34.18,15.0,12.47,,21.63,30.0,1.51,20.0,7.0
+59,National Institute of Technology Meghalaya,Shillong,Meghalaya,46.67,60,7.21,30.0,17.01,12.43,13.89,12.8,0.0,1.21,30.13,13.24,12.57,1.76,12.67,18.15,12.16,20.0,4.63
+60,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,46.43,61,13.07,26.34,14.68,11.32,10.57,12.02,5.0,0.26,24.74,15.0,10.89,0.46,21.43,20.79,0.01,20.0,26.21
+61,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,46.41,62,8.26,16.85,11.69,12.37,17.01,16.36,2.5,2.71,24.93,11.58,25.0,2.49,17.81,12.7,0.5,20.0,21.93
+62,"National Institute of Technology, Patna",Patna,Bihar,46.24,63,12.97,21.06,14.41,12.82,14.53,15.36,1.0,1.88,33.39,14.33,13.74,4.3,10.37,11.67,0.65,20.0,7.0
+63,Graphic Era University,Dehradun,Uttarakhand,45.87,64,12.95,30.0,15.46,12.64,5.39,,4.0,0.39,21.22,14.3,10.92,1.69,18.75,26.69,1.84,20.0,27.35
+64,"National Institute of Technology, Raipur",Raipur,Chhattisgarh,45.71,65,13.84,19.16,12.35,10.26,15.94,16.74,1.5,0.59,25.83,15.0,14.83,5.56,11.77,15.95,8.9,20.0,7.0
+65,National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,45.52,66,12.09,22.74,13.78,14.59,8.1,9.55,1.5,0.65,30.61,15.0,13.71,,12.81,21.86,11.2,20.0,11.37
+66,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,45.17,67,12.57,28.83,15.57,9.42,7.06,9.84,2.5,0.42,33.09,15.0,11.89,1.95,8.46,24.93,1.78,20.0,14.94
+67,Indian Institute of Technology Palakkad,Palakkad,Kerala,44.92,68,6.08,30.0,16.28,18.33,4.97,5.89,0.0,1.25,29.22,15.0,15.95,0.08,17.41,20.08,6.4,20.0,16.43
+68,Indraprastha Institute of Information Technology Delhi,New Delhi,Delhi,44.79,69,10.42,1.43,9.86,15.72,16.5,15.2,0.5,2.63,30.88,15.0,20.43,2.99,9.94,12.06,0.56,20.0,11.78
+69,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,44.63,70,1.47,18.72,12.47,9.54,12.5,14.75,2.5,0.72,28.97,15.0,14.76,3.57,12.65,17.49,8.92,20.0,6.54
+70,Defence Institute of Advanced Technology,Pune,Maharashtra,44.62,71,3.94,26.1,15.97,16.12,15.2,15.04,2.0,0.37,20.48,11.03,19.56,2.88,6.81,14.53,0.0,20.0,2.64
+71,"College of Engineering, Pune",Pune,Maharashtra,44.38,72,11.5,24.91,12.69,13.23,7.01,6.26,2.0,1.84,33.79,15.0,15.41,1.23,2.32,23.89,5.44,20.0,23.51
+72,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,44.16,73,12.0,26.7,12.66,11.03,4.74,,5.0,0.28,37.23,15.0,11.61,0.68,1.43,25.77,3.28,20.0,23.82
+73,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,44.02,74,9.5,24.19,14.53,6.99,16.88,15.32,0.5,0.31,22.08,15.0,13.42,2.43,5.66,22.68,1.26,18.0,22.57
+74,"Manipal University, Jaipur",Jaipur,Rajasthan,43.83,75,12.9,26.56,15.29,8.79,10.0,11.81,2.5,0.13,30.26,15.0,10.96,0.46,19.34,20.04,0.15,20.0,1.6
+75,Jawaharlal Nehru Technological University,Hyderabad,Telangana,42.77,76,14.44,23.22,11.95,16.05,11.18,10.6,3.0,2.62,18.29,12.25,10.06,3.42,1.79,27.37,4.79,20.0,6.54
+76,AU College of Engineering (A),Visakhapatnam,Andhra Pradesh,42.76,77,12.5,21.89,12.26,14.76,4.43,4.3,1.5,1.51,38.72,15.0,11.45,7.26,2.34,28.97,4.71,20.0,7.91
+77,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,42.56,78,6.16,19.79,13.75,12.88,9.1,9.63,0.5,1.31,34.84,13.89,21.47,1.63,21.34,12.58,2.49,20.0,7.0
+78,Netaji Subhas University of Technology (NSUT),South West,Delhi,42.14,79,15.09,18.54,10.42,8.72,8.05,11.09,0.0,0.35,30.98,15.0,18.86,3.67,5.1,18.41,1.23,20.0,23.2
+79,National Institute of Technology Agartala,Agratala,Tripura,41.92,80,11.96,21.06,13.12,10.45,10.65,12.56,2.0,0.23,23.96,12.91,13.8,3.52,12.33,18.89,,20.0,5.12
+80,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,41.91,81,8.0,20.26,12.55,14.4,6.04,3.51,2.0,4.6,24.61,15.0,23.4,0.6,23.45,16.51,0.0,20.0,17.88
+81,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",Jabalpur,Madhya Pradesh,41.79,82,9.09,14.92,10.15,11.62,13.45,14.4,0.5,0.69,31.53,15.0,15.62,4.3,20.79,11.42,,20.0,2.42
+82,B.M.S. College of Engineering,Bengaluru,Karnataka,41.71,83,14.5,22.69,11.82,10.47,5.17,5.85,4.0,0.5,29.84,14.89,14.97,1.03,6.42,24.03,1.84,20.0,18.23
+83,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,41.35,84,13.84,24.48,11.62,4.87,12.56,14.46,4.0,0.41,22.7,11.09,10.66,0.46,19.43,18.8,5.56,20.0,2.42
+84,Thiagarajar College of Engineering,Madurai,Tamil Nadu,41.1,85,11.5,21.07,11.63,7.74,6.78,9.24,2.0,1.3,30.66,15.0,10.63,3.37,0.49,25.66,2.44,20.0,29.29
+85,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",Thanjavur,Tamil Nadu,41.06,86,4.97,30.0,17.4,19.48,3.37,6.57,0.5,3.74,23.52,13.41,8.72,0.82,7.71,26.84,2.43,20.0,2.64
+86,"Punjab Engineering College (Deemed to be University), Chandigarh",Chandigarh,Chandigarh,41.05,87,11.53,15.91,10.19,13.04,6.43,9.1,1.5,0.91,32.38,15.0,15.69,2.97,12.9,19.13,1.63,20.0,19.27
+87,National Institute of Technology Goa,Ponda,Goa,40.78,88,6.4,22.45,13.87,12.53,11.31,10.3,0.0,0.9,26.28,12.69,13.78,1.76,17.31,18.48,2.32,20.0,8.36
+88,R.V. College of Engineering,Bengaluru,Karnataka,40.73,89,13.5,25.91,13.79,8.07,7.82,6.02,2.0,0.52,24.29,15.0,15.62,0.38,6.72,23.12,0.91,20.0,12.99
+89,"National Institute of Technology, Jamshedpur",Jamshedpur,Jharkhand,40.71,90,11.69,17.25,11.94,12.55,7.25,10.27,0.5,1.07,34.85,15.0,14.32,2.99,13.38,10.23,3.16,20.0,8.36
+90,SR University,Warangal,Telangana,40.69,91,10.86,30.0,17.34,7.32,4.46,5.69,3.0,0.13,22.96,15.0,9.94,0.0,6.64,29.51,6.08,20.0,12.59
+91,Panjab University,Chandigarh,Chandigarh,40.58,92,11.23,14.81,9.47,5.32,19.2,22.31,2.0,1.88,18.44,10.27,12.7,2.99,15.88,20.83,1.81,8.0,11.78
+92,Indian Institute of Information Technology Allahabad,Prayagraj (Allahabad),Uttar Pradesh,40.53,93,8.92,13.59,9.29,10.73,8.8,8.47,0.5,0.71,33.22,15.0,22.44,3.62,18.12,10.25,3.31,20.0,22.57
+93,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,40.5,94,12.45,19.38,12.42,7.98,11.42,12.32,1.5,0.18,32.32,13.82,11.4,2.43,8.07,20.4,0.21,20.0,6.07
+94,Rajalakshmi Engineering College,Chennai,Tamil Nadu,40.47,95,14.41,28.97,14.49,,2.26,4.25,2.0,0.69,32.2,15.0,9.77,2.88,5.21,27.08,6.9,20.0,3.44
+95,The Northcap University,Gurugram,Haryana,40.33,96,7.83,28.63,17.23,11.0,5.58,6.93,2.0,0.07,29.54,14.9,10.06,0.38,9.4,20.96,1.28,20.0,4.14
+96,Siddaganga Institute of Technology,Tumkur,Karnataka,40.24,97,10.35,29.7,14.32,7.27,5.48,8.16,0.0,0.39,29.93,12.59,12.42,0.75,3.38,25.26,2.55,20.0,13.39
+97,"C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,40.19,98,13.01,26.55,14.77,9.33,1.18,2.8,1.0,0.34,33.33,15.0,11.02,0.0,14.84,23.32,5.82,20.0,12.19
+98,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,40.16,99,12.98,29.55,14.64,4.47,7.7,9.41,4.0,0.31,19.28,15.0,11.18,1.5,6.18,26.37,3.75,20.0,3.44
+99,PES University,Bengaluru,Karnataka,40.14,100,13.82,22.09,10.59,9.77,6.8,5.83,2.0,0.3,34.16,15.0,14.39,0.23,5.05,24.5,1.47,20.0,9.24
+100,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,40.08,101,7.63,25.87,15.67,12.65,9.48,12.58,1.5,0.73,22.64,12.89,9.57,3.05,8.76,13.45,2.4,20.0,2.42
+101,Gandhi Institute of Technology and Management ,Visakhapatnam,Andhra Pradesh,39.92,102,13.01,20.29,11.58,6.23,6.57,9.43,5.0,0.08,36.95,15.0,10.04,1.88,,21.66,0.03,20.0,5.12
+102,B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,39.92,102,9.13,28.41,16.66,8.07,6.96,11.73,2.0,0.51,25.35,13.89,8.8,0.96,3.32,19.64,3.7,20.0,4.14
+103,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,39.83,104,10.77,30.0,14.57,7.68,2.82,4.85,3.0,0.77,25.67,12.57,10.42,1.03,0.37,23.37,5.55,20.0,26.21
+104,Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,39.66,105,8.65,28.91,15.54,6.59,2.99,3.95,2.0,0.43,33.15,15.0,11.45,1.5,13.59,22.26,1.46,20.0,10.53
+105,Pandit Deendayal Energy University,Gandhinagar,Gujarat,39.64,106,11.5,20.12,12.72,12.43,9.73,14.36,1.0,1.03,27.47,15.0,10.2,1.88,2.71,11.39,1.39,20.0,4.63
+106,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,39.43,107,10.87,20.25,13.36,6.29,13.53,14.22,2.5,0.44,18.56,15.0,,1.88,9.59,21.38,0.19,20.0,10.95
+107,National Institute of Technology Manipur,Imphal,Manipur,39.32,108,,30.0,15.36,11.03,6.65,9.49,0.0,0.72,15.56,12.75,13.17,2.31,10.9,19.9,8.94,20.0,4.63
+108,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,39.32,108,13.41,25.9,13.22,6.83,6.41,6.29,2.0,0.62,30.12,13.92,10.02,0.08,0.67,23.62,0.79,20.0,15.69
+109,"College of Engineering, Trivandrum",Thiruvananthapuram,Kerala,39.24,110,12.5,27.45,11.93,9.06,6.02,5.39,0.5,0.88,25.81,15.0,12.0,1.3,0.55,26.25,5.75,20.0,11.37
+110,Veer Surendra Sai University of Technology,Burla,Odisha,39.14,111,14.02,19.31,11.47,10.29,12.03,14.51,0.5,0.17,18.1,14.44,10.72,4.44,0.59,22.42,3.41,20.0,3.65
+111,Indian Institute of Information Technology Guwahati,Guwahati,Assam,39.09,112,5.55,20.7,13.47,11.07,5.75,5.15,0.0,0.58,28.2,13.59,14.21,0.46,20.05,18.6,0.35,20.0,32.45
+112,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Hyderabad,Telangana,39.04,113,13.5,26.97,12.89,6.38,3.44,4.99,6.0,0.34,28.75,14.69,10.09,0.0,1.72,26.41,2.73,20.0,10.11
+113,"Amity University Haryana, Gurgaon","Gurugram, Haryana",Haryana,38.87,114,7.9,30.0,16.61,8.19,5.28,7.53,2.0,0.78,20.1,15.0,9.7,1.23,11.59,25.2,0.76,20.0,4.14
+114,"Jain University, Bangalore",Bengluru,Karnataka,38.55,115,12.69,23.45,11.06,6.45,5.48,10.61,6.0,0.66,17.55,12.98,10.7,6.14,15.1,22.07,1.44,20.0,3.44
+115,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,38.51,116,14.8,28.6,12.37,9.81,2.68,2.53,4.0,0.46,28.33,14.73,10.76,0.53,6.6,20.61,0.91,20.0,2.64
+116,University College of Engineering,Hyderabad,Telangana,38.49,117,10.0,25.33,12.76,12.06,1.22,2.08,2.0,4.19,29.24,13.45,12.62,0.68,7.31,30.0,6.61,18.0,2.42
+117,Kongu Engineering College,Perundurai,Tamil Nadu,38.31,118,12.42,26.37,13.58,6.76,5.98,,0.5,0.19,27.39,13.99,9.68,0.75,0.24,22.04,1.01,20.0,16.43
+118,"Veermata Jijabai Technological Institute (VJTI, Mumbai)",Mumbai,Maharashtra,38.29,119,11.5,17.23,10.24,11.26,5.02,6.28,0.5,1.88,31.83,15.0,14.83,2.31,5.92,22.24,6.3,20.0,8.8
+119,Dayalbagh Educational Institute,Agra,Uttar Pradesh,38.26,120,9.33,30.0,15.97,7.43,1.94,4.46,2.0,1.46,24.89,15.0,10.74,2.25,2.98,23.42,3.42,20.0,9.24
+120,New Horizon College of Engineering,Bengaluru,Karnataka,38.18,121,12.0,24.44,13.05,7.46,0.41,1.41,4.0,0.71,35.59,15.0,13.79,0.53,10.38,24.05,2.07,20.0,5.12
+121,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,38.14,122,8.6,27.62,9.92,8.75,3.62,5.98,3.0,0.31,35.21,15.0,11.35,0.16,1.94,21.5,3.47,20.0,7.91
+122,Tezpur University,Tezpur,Assam,38.12,123,8.7,20.13,13.25,8.25,13.52,15.42,0.5,1.26,17.76,15.0,9.99,1.88,6.24,13.84,0.8,20.0,7.91
+123,PSG Institute of Technology and Applied Research,Coimbatore,Tamil Nadu,38.04,124,7.5,30.0,15.95,7.74,1.47,3.55,1.0,0.15,26.86,15.0,12.21,0.0,1.16,24.91,3.81,20.0,20.29
+124,Nirma University,Ahmedabad,Gujarat,38.01,125,12.5,19.86,10.84,9.86,7.06,10.83,0.5,0.21,31.15,15.0,11.58,0.08,3.0,19.23,3.43,20.0,4.14
+125,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,38.01,125,9.06,21.69,13.17,5.19,8.21,15.36,4.0,0.2,19.72,13.96,9.79,2.31,11.27,20.91,0.6,20.0,5.12
+126,"National Institute of Food Technology, Enterprenurship & Management",Sonipat,Haryana,37.96,127,7.44,21.56,13.95,15.49,1.5,4.91,1.0,1.33,26.3,14.91,14.18,1.76,19.23,22.75,,20.0,1.6
+127,"National Institute of Technology, Hamirpur",Hamirpur,Himachal Pradesh,37.91,128,11.76,15.71,10.61,9.33,9.72,13.12,0.5,0.51,25.54,15.0,13.73,2.99,13.07,10.24,1.92,20.0,5.6
+128,Jawaharlal Nehru Technological University,Kakinada,Andhra Pradesh,37.79,129,10.48,27.4,13.16,5.97,9.9,8.17,1.0,0.24,21.59,14.59,10.0,1.37,1.09,27.6,3.5,18.0,3.65
+129,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,37.79,129,10.22,22.59,12.25,6.06,6.01,8.7,4.0,0.14,24.86,15.0,10.08,1.3,0.24,25.81,4.17,20.0,15.32
+130,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,37.75,131,11.53,27.49,11.76,6.54,0.69,0.82,1.5,0.14,35.13,15.0,9.51,2.25,18.02,24.95,4.17,20.0,5.12
+131,National Institute of Technology Uttarakhand,Srinagar (Garhwal),Uttarakhand,37.75,131,5.89,30.0,16.52,8.64,7.67,9.36,1.5,0.39,17.24,13.18,13.54,0.23,11.66,12.33,10.54,11.0,3.65
+132,"Amity University, Jaipur",Jaipur,Rajasthan,37.65,133,6.37,24.61,13.94,6.73,6.5,7.68,1.5,0.46,33.24,15.0,9.14,0.96,11.25,21.63,1.5,20.0,2.42
+133,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,37.64,134,8.28,19.94,11.4,8.97,5.33,4.95,0.0,0.36,36.47,15.0,19.05,1.3,4.93,20.31,3.76,20.0,6.07
+134,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,37.58,135,11.1,25.79,12.4,7.51,4.24,6.19,2.0,0.04,27.81,14.43,11.4,1.37,10.08,26.33,0.0,20.0,1.6
+135,National Institute of Technology Puducherry,Karaikal,Pondicherry,37.49,136,8.43,21.75,13.48,8.74,3.08,5.12,2.0,0.41,24.0,15.0,13.22,0.31,17.92,22.43,11.31,20.0,9.24
+136,"P E S College of Engineering, Mandya",Mandya,Karnataka,37.4,137,11.42,29.0,12.87,7.04,0.41,0.42,0.5,0.13,35.72,15.0,9.89,4.85,1.93,30.0,5.79,20.0,0.0
+137,Jaypee University of Information Technology,Solan,Himachal Pradesh,37.39,138,7.5,17.75,11.44,8.38,9.05,12.45,4.5,0.17,29.88,13.89,10.2,3.21,11.52,12.72,0.29,20.0,3.44
+138,Chandigarh Engineering College,Sahibzada Ajit Singh Nagar,Punjab,37.37,139,13.5,28.82,14.4,,0.25,0.58,6.0,0.05,18.22,15.0,10.74,0.0,19.74,28.61,2.91,20.0,0.54
+139,Anurag University,Hyderabad,Telangana,37.33,140,13.5,28.85,12.43,6.39,1.3,1.64,1.0,0.1,28.74,15.0,9.83,0.0,7.46,29.48,3.99,20.0,9.68
+140,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,Andhra Pradesh,37.3,141,13.5,26.01,12.85,5.5,4.83,4.69,5.0,0.3,24.28,14.81,10.15,0.0,0.16,27.47,4.67,20.0,4.14
+141,Vishwakarma Institute of Technology,Pune,Maharashtra,37.28,142,14.5,25.19,10.49,7.93,1.26,1.58,4.0,0.43,32.34,15.0,11.57,0.89,4.83,23.74,2.02,20.0,6.54
+142,"J. C. Bose University of Science and Technology, YMCA",Faridabad,Haryana,37.27,143,9.5,22.61,13.35,12.07,3.44,4.61,2.5,0.18,31.52,15.0,10.08,1.23,6.32,21.56,2.65,20.0,2.64
+143,Chitkara University,Rajpura,Punjab,37.24,144,13.7,16.6,9.38,9.07,4.39,6.28,5.0,0.53,23.03,15.0,11.76,1.03,15.3,22.49,0.34,20.0,17.88
+144,Noida Institute of Engineering & Technology,Greater Noida,Uttar Pradesh,37.2,145,11.0,29.84,9.93,5.9,0.45,1.36,1.0,0.38,32.86,15.0,10.65,0.0,9.79,20.22,2.45,20.0,23.2
+145,Shri Ramdeobaba College of Engineering and Management,Nagpur,Maharashtra,37.02,146,10.5,25.95,12.74,7.8,4.05,2.71,2.5,0.05,31.7,15.0,10.82,0.08,4.8,25.2,0.89,20.0,5.12
+146,Galgotias University,Gautam Budh Nagar,Uttar Pradesh,36.89,147,13.36,24.71,11.87,5.97,3.6,6.23,6.0,0.21,24.43,15.0,9.42,0.46,11.79,20.9,2.56,20.0,8.8
+147,Goka Raju Ranga Raju Institute of Engineering & Technology,Hyderabad,Telangana,36.79,148,13.5,23.38,10.86,6.29,4.29,5.17,3.0,0.13,32.27,14.68,10.15,0.0,1.16,25.06,3.96,20.0,3.65
+148,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,36.78,149,14.0,22.97,11.36,6.39,4.53,8.27,0.5,0.91,26.44,15.0,9.16,3.1,0.73,21.89,4.99,20.0,6.07
+149,Pondicherry Engineering College,Puducherry,Pondicherry,36.77,150,9.53,18.03,10.4,,6.68,6.59,0.5,1.74,30.72,13.36,11.79,3.62,3.55,22.78,7.87,20.0,8.8
+150,"National Institute of Advanced Manufacturing Technology, Ranchi",Ranchi,Jharkhand,36.77,150,5.28,29.17,17.45,15.93,1.76,2.87,0.0,0.3,25.53,11.39,11.2,1.1,18.3,8.06,2.95,20.0,2.64
+151,Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,36.71,152,9.52,23.42,12.68,4.47,9.24,10.84,6.0,0.18,18.19,13.09,9.74,1.1,6.52,19.75,2.0,20.0,5.6
+152,"Amity University, Gwalior",Gwalior,Madhya Pradesh,36.49,153,5.66,30.0,18.01,6.45,2.8,3.16,0.5,0.33,33.47,15.0,9.52,0.16,4.44,22.07,0.27,20.0,1.08
+153,R.M.K. Engineering College,Thiruvallur,Tamil Nadu,36.46,154,9.8,27.22,12.28,8.16,1.67,2.95,3.0,0.38,30.33,15.0,11.45,0.0,6.0,23.99,2.49,20.0,3.44
+154,Mahindra University,Hyderabad,Telangana,36.46,154,7.62,20.95,13.99,15.07,1.79,2.27,0.0,0.83,35.17,15.0,13.72,0.0,,21.44,0.01,20.0,0.0
+155,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,36.44,156,14.5,13.52,9.4,8.13,13.6,12.68,3.5,0.24,10.75,15.0,9.75,0.38,20.02,20.04,4.7,20.0,1.08
+156,Sri Sairam Engineering College,Kancheepuram,Tamil Nadu,36.41,157,12.45,27.41,12.44,6.52,4.05,4.4,5.0,0.37,18.16,15.0,10.12,2.66,3.41,26.56,1.05,20.0,5.12
+157,JSS Science and Technology University   ,Mysuru,Karnataka,36.36,158,12.07,23.09,11.79,7.82,1.99,2.66,1.5,0.39,29.55,14.45,12.46,1.57,1.76,25.41,4.67,20.0,11.78
+158,Vels Institute of Science Technology & Advanced Studies (VISTAS) -Chennai,Chennai,Tamil Nadu,36.35,159,6.49,26.34,14.52,4.61,,9.57,2.5,0.38,25.71,12.34,8.57,0.6,2.41,17.0,2.44,20.0,0.54
+159,Government College of Technology,Coimbatore,Tamil Nadu,36.22,160,10.38,20.62,10.66,6.12,3.23,6.12,0.5,0.2,26.94,14.44,14.67,2.31,0.21,25.86,3.74,20.0,22.89
+160,"Silicon Institute of Technology (SIT), Bhubaneswar",Bhubaneswar,Odisha,36.19,161,8.65,28.46,15.38,6.48,0.89,2.4,0.5,0.03,30.91,15.0,9.95,0.0,12.73,26.1,3.51,20.0,0.54
+161,Vardhaman College of Engineering,Rangareddy,Telangana,36.15,162,10.5,24.44,11.66,5.59,2.45,2.64,4.0,0.24,29.53,14.56,10.5,0.0,1.44,24.49,2.36,20.0,20.62
+162,"G. H. Raisoni College of Engineering, Nagpur",Nagpur,Maharashtra,36.12,163,10.36,27.67,12.85,6.6,2.26,1.94,6.0,0.23,23.97,15.0,9.68,0.0,4.08,25.56,4.93,20.0,5.6
+163,Sharda University,Greater Noida,Uttar Pradesh,36.1,164,9.61,28.17,14.95,5.01,5.84,7.32,4.0,0.2,15.41,12.46,8.91,0.96,15.46,19.88,0.23,20.0,5.12
+164,Sree Vidyanikethan Engineering College,Tirupati,Andhra Pradesh,36.08,165,13.17,23.97,10.96,5.53,1.5,2.75,5.0,0.1,25.84,14.38,10.63,0.0,0.71,25.52,4.6,20.0,19.27
+165,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,35.84,166,12.0,25.05,11.91,8.54,1.44,1.55,0.0,0.08,30.69,15.0,11.2,0.0,2.68,25.61,3.65,20.0,10.95
+166,Bharatiya Vidya Bhavan`s Sardar Patel Institute of Technology,Mumbai,Maharashtra,35.62,167,8.5,20.57,8.85,8.61,5.81,4.26,3.0,0.04,33.62,15.0,14.92,0.38,0.46,24.63,1.32,20.0,3.44
+167,Rabindranath Tagore University,Raisen,Madhya Pradesh,35.62,167,9.0,30.0,18.62,4.28,0.26,0.59,1.0,0.16,21.04,15.0,10.95,4.26,18.28,20.76,2.95,20.0,0.0
+168,National Engineering College,Kovilpatti,Tamil Nadu,35.58,169,8.96,28.13,13.57,4.85,3.6,6.46,2.0,0.04,27.6,15.0,8.57,0.16,0.08,25.31,2.31,20.0,2.64
+169,CVR College of Engineering,Ibrahimpatan,Telangana,35.51,170,13.25,29.27,12.66,6.01,1.47,2.42,1.0,0.13,25.06,15.0,10.79,0.0,5.78,25.48,2.73,20.0,1.6
+170,National Institute of Technology Arunachal Pradesh,Itanagar,Arunachal Pradesh,35.49,171,5.35,23.22,14.71,12.68,5.07,5.94,3.0,1.26,17.27,9.81,12.73,1.1,12.3,13.78,8.76,20.0,4.63
+171,Army Institute of Technology,Pune,Maharashtra,35.38,172,7.5,24.71,9.47,9.45,0.47,0.26,1.5,0.13,35.67,15.0,14.21,0.0,25.0,18.04,0.81,14.0,5.6
+172,National Institute of Technology Sikkim,South Sikkim,Sikkim,35.33,173,5.56,30.0,16.01,12.68,4.3,5.68,0.0,0.28,16.46,10.68,13.05,0.08,15.22,12.71,5.68,14.0,1.6
+173,Sona College of Technology,Salem,Tamil Nadu,35.29,174,10.79,25.95,13.74,6.52,2.62,3.5,1.5,0.39,28.59,13.61,9.14,1.37,1.0,23.52,3.91,20.0,4.14
+174,NMAM Institute of Technology,"Nitte, Udupi",Karnataka,35.27,175,12.0,24.01,11.92,7.38,3.91,5.35,2.0,0.14,23.67,15.0,11.52,0.16,2.36,24.93,1.49,20.0,3.44
+175,Chennai Institute of Technology,Chennai,Tamil Nadu,35.27,175,8.65,28.28,13.26,5.05,2.29,4.63,2.0,0.28,23.13,15.0,8.99,0.0,5.41,22.85,8.45,20.0,8.36
+176,Indira Gandhi Delhi Technical University for Women,Delhi,Delhi,35.23,177,9.01,13.66,8.38,8.34,4.62,5.19,0.0,1.22,33.26,14.78,17.98,1.23,3.73,30.0,0.39,16.0,16.43
+177,Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,35.2,178,9.87,22.96,11.99,12.62,7.38,10.41,0.5,0.23,9.69,9.28,9.14,2.01,21.91,15.86,3.06,20.0,3.44
+178,DIT University,Dehradun,Uttarakhand,35.14,179,10.51,19.97,11.31,9.21,2.72,5.81,1.0,0.08,27.8,15.0,10.5,1.63,15.31,20.75,0.56,20.0,3.44
+179,C M R Institute of Technology,Bengaluru,Karnataka,35.11,180,9.95,28.64,12.36,6.39,2.28,2.81,3.0,0.2,25.18,13.61,11.01,0.0,6.14,24.29,1.57,20.0,2.64
+180,Easwari Engineering College,Chennai,Tamil Nadu,35.07,181,9.73,24.92,12.1,6.05,1.36,2.62,3.0,0.22,31.7,14.61,11.65,0.0,0.25,22.1,8.89,20.0,3.65
+181,Rajiv Gandhi Institute of Petroleum Technology,Amethi,Uttar Pradesh,34.99,182,5.38,21.43,14.57,17.43,1.66,4.39,0.0,1.0,28.32,9.51,14.76,1.63,11.73,9.28,2.95,20.0,0.0
+182,Nitte Meenakshi Institute of Technology,Bengaluru,Karnataka,34.97,183,11.57,25.54,12.0,,2.05,3.46,2.0,0.2,24.69,13.91,11.4,0.82,10.16,22.33,1.32,20.0,1.6
+183,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Chennai,Tamil Nadu,34.93,184,8.8,12.03,8.22,7.32,5.73,6.26,0.0,1.16,30.47,15.0,15.43,1.69,18.93,8.45,3.99,20.0,24.42
+184,Yeshwantrao Chavan College of Engineering,Nagpur,Maharashtra,34.88,185,13.5,21.28,10.56,7.07,1.25,1.28,6.0,0.24,31.8,14.53,10.74,0.0,0.62,24.93,5.19,20.0,0.54
+185,G. L. A. University,Mathura,Uttar Pradesh,34.74,186,13.68,23.85,12.45,5.54,5.91,8.67,5.0,0.09,13.63,13.72,9.8,0.46,4.17,20.02,1.43,20.0,1.08
+186,KIET Group of Institutions,Ghaziabad,Uttar Pradesh,34.73,187,13.5,22.47,11.06,6.3,1.95,3.18,4.0,0.26,29.48,15.0,10.56,0.08,2.7,20.84,2.75,20.0,2.64
+187,GMR Institute of Technology,Rajam,Andhra Pradesh,34.71,188,10.31,24.53,14.07,8.25,4.29,6.47,4.0,0.52,18.35,14.37,10.2,0.0,1.87,15.23,4.75,20.0,2.42
+188,Christ University,Bengaluru,Karnataka,34.64,189,7.24,20.9,12.1,5.66,7.66,9.43,2.0,0.13,19.68,11.44,9.65,0.6,14.64,17.24,0.34,20.0,16.07
+189,Institute of Infrastructure Technology Research and Management (IITRAM),Ahmedabad,Gujarat,34.41,190,5.6,23.22,15.53,10.53,8.15,10.56,0.5,0.86,16.0,14.94,8.96,0.53,7.82,8.95,0.44,20.0,1.08
+190,Maharishi Markandeshwar,Ambala,Haryana,34.37,191,7.9,30.0,15.9,5.62,4.32,6.06,4.0,0.13,15.82,,10.39,1.23,10.92,17.64,0.95,20.0,2.64
+191,Galgotias College of Engineering & Technology,Greater Noida,Uttar Pradesh,34.29,192,10.42,26.6,12.9,4.83,1.85,3.09,2.0,0.04,27.36,15.0,9.18,0.0,6.48,20.98,0.95,20.0,6.07
+192,Dr. D. Y. Patil Institute of Technology,Pune,Maharashtra,34.1,193,13.0,24.72,9.82,5.94,0.17,0.24,1.0,0.08,30.46,14.32,12.62,2.31,5.31,24.83,1.84,20.0,4.63
+193,National Institute of Technology Delhi,Delhi,Delhi,33.96,194,5.24,17.0,11.25,,10.84,11.42,0.0,0.63,17.65,10.65,14.98,1.43,13.12,9.61,0.0,20.0,14.94
+194,G. L. Bajaj Institute of Technology and Management,Greater Noida,Uttar Pradesh,33.95,195,10.91,26.04,12.02,5.51,2.56,4.48,3.0,0.17,22.89,15.0,10.09,0.0,5.9,19.63,2.26,20.0,1.6
+195,KLE Technological University,Dharwad,Karnataka,33.9,196,13.5,21.22,9.93,6.62,3.55,5.6,1.0,0.21,24.45,15.0,11.39,0.0,2.47,25.42,0.71,20.0,4.14
+196,Shri Vile Parle Kelavani Mandal`s Dwarkadas J. Sanghvi College of Engineering,Mumbai Suburban,Maharashtra,33.88,197,9.5,24.19,10.93,8.75,3.47,1.99,0.5,0.15,30.39,15.0,11.77,1.47,0.41,21.79,0.52,20.0,1.08
+197,Sri Venkateswara College of Engineering and Technology,Chittoor,Andhra Pradesh,33.77,198,9.36,26.08,10.85,4.86,0.41,0.28,1.0,0.14,32.25,14.83,11.6,0.38,5.13,25.15,8.08,20.0,3.44
+198,BMS Institute of Technology & Management,Bengaluru,Karnataka,33.76,199,10.5,18.09,9.66,8.15,1.45,3.25,0.0,0.07,31.27,15.0,10.11,0.08,7.89,24.51,1.98,20.0,16.8
+199,Vidya Jyothi Institute of Technology,Hyderabad,Telangana,33.7,200,10.82,29.96,11.98,5.17,0.38,0.39,2.0,0.04,24.04,13.33,9.21,0.0,4.94,27.71,2.81,20.0,6.07
